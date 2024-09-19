@@ -62,5 +62,22 @@ The Controller translates the input data into the scope of commands of the previ
 
 ![image](https://github.com/user-attachments/assets/753afea2-e32d-4288-ab6d-cd5611d15e5d)
 
+![image](https://github.com/user-attachments/assets/7958e48d-22d5-4c3e-a120-9fbf64b4ac64)
+
+![image](https://github.com/user-attachments/assets/5c9bd4ef-8b2d-4acd-8822-9f4158cb7a1c)
+
+![image](https://github.com/user-attachments/assets/317c321b-5317-4026-b254-e75f8f52dcb5)
+
+![image](https://github.com/user-attachments/assets/fdadd12a-0c72-482e-9b22-c5359e9d624d)
+
+![image](https://github.com/user-attachments/assets/11174e2f-b7e1-453d-9055-85540cd8339b)
+
+
+
+
+
+
+
+
 
 
