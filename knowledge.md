@@ -55,3 +55,12 @@ The View is for the graphical representation of the data like graph or charts et
 Controller
 
 The Controller translates the input data into the scope of commands of the previous ones. It is the midway between the Model and the View. It gets the user input from the View; after processing it, the Controller notifies the Model (or View) of the changes required.
+
+![image](https://github.com/user-attachments/assets/42bf9506-f530-4e8f-80ee-b0aeff1a9a4c)
+
+![image](https://github.com/user-attachments/assets/ea012c4f-f363-4dd4-8ca3-465641b86e07)
+
+![image](https://github.com/user-attachments/assets/753afea2-e32d-4288-ab6d-cd5611d15e5d)
+
+
+
